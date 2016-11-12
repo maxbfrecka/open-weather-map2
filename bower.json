@@ -1,0 +1,14 @@
+{
+  "name": "open-weather-map2",
+  "authors": [
+    "maxbfrecka <maxbfrecka@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8"
+  }
+}
